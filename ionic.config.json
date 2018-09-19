@@ -1,0 +1,8 @@
+{
+  "name": "ScanQA",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a9547024"
+}
